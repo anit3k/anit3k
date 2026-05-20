@@ -25,7 +25,9 @@ SOLID principles aren't guidelines — they're the Jedi Code.
 ### Languages & Frameworks
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+`C# developer since August 2019 · Professional software developer since February 2020` ☕
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -34,13 +36,14 @@ SOLID principles aren't guidelines — they're the Jedi Code.
 
 ### Data & Messaging
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-### Tools & Practices
-![NUnit](https://img.shields.io/badge/NUnit-008000?style=for-the-badge&logo=nunit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Tools
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -66,13 +69,17 @@ SOLID principles aren't guidelines — they're the Jedi Code.
 |---|---|---|
 | 📕 **Clean Code** | Robert C. Martin | *"The only way to go fast, is to go well."* |
 | 📗 **Clean Architecture** | Robert C. Martin | *"Architecture is about intent."* |
+| 📘 **Agile Principles, Patterns, and Practices in C#** | Robert C. Martin | *SOLID, TDD, and agile design in C#.* |
+| 📙 **Building Microservices** | Sam Newman | *Independently deployable, loosely coupled services.* |
 | 📘 **Design Patterns** | Gang of Four | *Patterns are tools, not goals.* |
+| 📕 **Bogen om C#** | Michell Cronberg | *Where it all started.* 🇩🇰 |
 
 ---
 
 ## 🌌 Fun Facts
 
 - 🎬 Huge **Star Wars** fan — the original trilogy is peak cinema
+- 🤘 **Metalhead** — rock, heavy metal & death metal. Nothing beats a good live show
 - ☕ Fueled by coffee and SOLID principles
 - 🤖 AI-assisted development enthusiast — GitHub Copilot is my protocol droid
 - 🧹 I refactor for fun. Seriously.
